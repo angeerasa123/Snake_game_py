@@ -35,16 +35,3 @@ This project implements a classic Snake game using the Pygame library in Python.
 - **High Scores:** Implement a system to track and display high scores.
 - **Graphical Improvements:** Enhance the game's visual appeal with improved graphics and animations.
 
-**Disclaimer:**
-
-This is a basic implementation of the Snake game. It can be further enhanced and expanded upon.
-
----
-
-This description provides a clear and concise overview of the Snake Game project, including:
-
-* **Project Title:** "Snake Game"
-* **How to Play:** Instructions on how to install and run the game.
-* **Game Features:** A brief summary of the core game features.
-* **Future Enhancements:** Suggestions for potential improvements to the game.
-* **Disclaimer:** A note acknowledging the basic nature of the implementation.
